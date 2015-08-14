@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TravelSmart</string>
+    <string name="title_activity_add_plcaces">Map</string>
+    <string name="title_activity_list_places">ListPlaces</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
